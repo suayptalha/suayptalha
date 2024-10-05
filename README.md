@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on AI and programming.
 - ⚡ import torch
 
-The languages that I mostly use:
-
 Hugging Face 🤗: https://huggingface.co/suayptalha
+
+The languages that I mostly use:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css)](https://skillicons.dev)
