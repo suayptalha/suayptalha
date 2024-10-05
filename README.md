@@ -6,4 +6,6 @@
 
 The languages that I mostly use:
 
+Hugging Face 🤗: https://huggingface.co/suayptalha
+
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css)](https://skillicons.dev)
