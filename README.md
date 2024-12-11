@@ -7,7 +7,8 @@
 
 Hugging Face 🤗: https://huggingface.co/suayptalha
 
-![suayptalha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suayptalha&theme=blue-green&hide=python&layout=compact&show_icons=true)
+![suayptalha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suayptalha&theme=blue-green&layout=compact&show_icons=true)
+
 The languages that I mostly use:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css)](https://skillicons.dev)
