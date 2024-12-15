@@ -24,6 +24,7 @@ Hugging Face 🤗: https://huggingface.co/suayptalha
 <a href="https://linkedin.com/in/suayp-talha-kocabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suayp-talha-kocabay" height="30" width="40" /></a>
 <a href="https://kaggle.com/suayptalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suayptalha" height="30" width="40" /></a>
 <a href="https://instagram.com/suayptalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suayptalha" height="30" width="40" /></a>
+<a href="https://medium.com/@suayptalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suayptalha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
