@@ -7,7 +7,7 @@
 
 Hugging Face 🤗: https://huggingface.co/suayptalha
 
-![suayptalha's Top Languages](https://camo.githubusercontent.com/89b713cfcabd9d1ff7968c04ace916bff0ced568ba4029d9dbfab3c76650c1eb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737561797074616c6861267468656d653d626c75652d677265656e266c61796f75743d636f6d706163742673686f775f69636f6e733d74727565)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suayptalha)](https://github.com/suayptalha/github-readme-stats)
 
 <h3 align="left">The languages that I mostly use:</h3>
 
