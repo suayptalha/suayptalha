@@ -6,7 +6,6 @@
 - ⚡ import torch
 
 Hugging Face 🤗: https://huggingface.co/suayptalha
-
 Discord: https://discord.com/users/suaypt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suayptalha&theme=dark)](https://github.com/suayptalha/github-readme-stats)
