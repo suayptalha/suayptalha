@@ -9,10 +9,6 @@ Hugging Face 🤗: https://huggingface.co/suayptalha
 
 Discord: https://discord.com/users/suaypt
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suayptalha&theme=dark)](https://github.com/suayptalha/github-readme-stats)
-
-<h3 align="left">The languages that I mostly use:</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css)](https://skillicons.dev)
 
 
