@@ -16,7 +16,7 @@
 
 ### `> about`
 
-**Software Engineer & Researcher at Poindexter Labs** · Also an **intern at TÜBİTAK BİLGEM**.
+**High Schooler at TÜBİTAK Science HS** · **Software Engineer & Researcher at Poindexter Labs** · Also an **intern at TÜBİTAK BİLGEM**.
 
 I work on **machine learning, NLP, efficient language models, and AI systems** — from research ideas to practical software. I enjoy training and merging models, experimenting with new architectures, and sharing what I build with the open-source community.
 
